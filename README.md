@@ -21,7 +21,7 @@ A clean and modern portfolio website built with HTML and CSS. This portfolio sho
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/portfolio.git
+git clone https://github.com/Nakara4/portfolio.git
 ```
 
 2. Open `index.html` in your browser to view the website.
@@ -34,7 +34,6 @@ git clone https://github.com/your-username/portfolio.git
 
 ## Contact
 
-- Email: your.email@example.com
-- GitHub: github.com/yourusername
-- LinkedIn: linkedin.com/in/yourusername
-# Portfolio-Website
+- Email: ngangapepe8@gmail.com
+- GitHub: github.com/Nakara4
+- LinkedIn: linkedin.com/in/dennis-nganga-805181298
